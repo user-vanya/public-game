@@ -1,5 +1,5 @@
-name: 🐞Bug report
-description: Create a report to help us improve
+name: 🐛 Баг-репорт
+description: Если что-то работает не так.
 labels: ["status:triage", "type:bug"]
 body:
   - type: textarea
