@@ -19,6 +19,6 @@ Windows<br>
 * Сложность выбора<br>
 В мире игры нет понятия абсолютного добра и абсолютного зла. Игроку часто придется совершать сложный выбор
 ---
-Found issues while play? [Inform](https://github.com/user-vanya/public-game/issues/new?assignees=&labels=&template=bug_report.md&title=) me.
+Found issues while play? [Inform](https://github.com/user-vanya/public-game/issues/new?assignees=&labels=status%3Atriage%2Ctype%3Abug&template=bug_report.yml) me.
 ___
 Copyright Ivan (vanva) Malakhov, 2022. All right reserved. Do not distribute.
